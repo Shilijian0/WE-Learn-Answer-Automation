@@ -1,4 +1,4 @@
-# WE-Learn-WE-Learn-Answer-Automation-
+WE-Learn-Answer-Automation-
 # WE Learn 自动化答题辅助脚本 (WE-Learn-Answer-Automation)
 
 一个运行在浏览器控制台（Console）的轻量级前端自动化答题辅助脚本，专为 WE Learn 平台设计。通过底层 DOM 解析技术，自动提取并模拟填充页面内隐藏的正确答案。
